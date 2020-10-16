@@ -1,0 +1,4 @@
+requests
+sqlalchemy
+speedtest-cli
+pythonping
